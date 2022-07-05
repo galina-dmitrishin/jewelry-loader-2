@@ -7,8 +7,8 @@ document.body.onload = function()
     setTimeout(function(){$(".logo").css({"opacity":"1"});}, 800);
     //setTimeout(function(){$(".item-1-left").css("transform", "translateX(-100%)");}, 4000);
     //setTimeout(function(){$(".item-1-right").css("transform", "translateX(100%)");}, 4000);
-    setTimeout(function(){$(".item-1").css("opacity", "0");}, 4000);    
-   // setTimeout(function(){$(".item-2").css("height", "0");}, 5000);
+    setTimeout(function(){$(".item-1").css("opacity", "0");}, 3500);    
+    setTimeout(function(){$(".item-2").css("opacity", "0");}, 4700);
    // setTimeout(function(){$(".item-3").css("height", "0");}, 5300);
    // setTimeout(function(){$(".item-4").css("height", "0");}, 5500);
  
